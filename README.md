@@ -1,5 +1,5 @@
 # Single-Page-CV
 
-Projeto  para exercicio das habilidades utilizando o HTML utilizando um Curriculum Vitae como objetivo final.
+Projeto  para exercicio das habilidades utilizando o HTML utilizando um Curriculum Vitae como objetivo final, aproveitem.
 
 (https://roadmap.sh/projects/single-page-cv)
